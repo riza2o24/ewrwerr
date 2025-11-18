@@ -16,7 +16,7 @@
     padding: 0 50px;
 }
 
-.sigin{
+.sign{
     width: 100%;
     height: 30px;
     display: flex;
@@ -25,9 +25,38 @@
     background-color: black;
 }
 
-.sigin__paragrf{
+.sign__paragrf{
     font-family: "Roboto", sans-serif;
     font-size: 12px;
     font-weight: 400;
     color: white;
 }
+
+
+/* heager */
+.header{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.header__image{
+    position: sticky;
+}
+
+.header__nav{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.header__nav--link{
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #000000;
+}
+
