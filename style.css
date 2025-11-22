@@ -7,6 +7,7 @@
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
+    font-family: "Roboto", sans-serif;
 }
 
 .conteyner{
@@ -26,7 +27,6 @@
 }
 
 .sign__paragrf{
-    font-family: "Roboto", sans-serif;
     font-size: 12px;
     font-weight: 400;
     color: white;
@@ -51,7 +51,6 @@
 }
 
 .header__nav--link{
-    font-family: "Roboto", sans-serif;
     font-size: 14px;
     font-weight: 400;
     color: #000000;
@@ -73,14 +72,12 @@
 }
 
 .box__text--text{
-    font-family: "Roboto", sans-serif;
     font-size: 44px;
     font-weight: 400;
     color: #000000;
 }
 
 .box__text--paragrf{
-    font-family: "Roboto", sans-serif;
     font-size: 15px;
     font-weight: 400;
     color: #000000;
@@ -100,7 +97,6 @@
     border-radius: 500px;
     border: none;
     background-color: #FF4A32;
-    font-family: "Roboto", sans-serif;
     font-size: 15px;
     font-weight: 400;
     color: #ffffff;
@@ -114,4 +110,19 @@
     justify-content: space-between;
     background-color: #000000;
     margin-bottom: 30px;
+}
+
+.hero__text{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.hero__paragrf{
+    text-align: center;
+    width: 685px;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
