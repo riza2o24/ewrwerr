@@ -138,7 +138,6 @@
     width: 70px;
     height: 2px;
     background-color: #CFCFCF;
-    margin-bottom: 40px;
     margin: auto;
 }
 
@@ -146,4 +145,42 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-top: 40px;
+}
+
+
+.hero__image{
+    width: 580px;
+    height: 580px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("image/Rectangle\ \(6\).png");
+}
+
+
+.hero__imagee{
+    width: 580px;
+    height: 580px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("image/Rectangle\ \(7\).png");
+}
+
+
+
+.hero__image--paragrf{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 14px;
+}
+
+.hero__image--paragrff{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
 }
