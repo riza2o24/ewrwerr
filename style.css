@@ -343,7 +343,7 @@
     padding-top: 55px;
     background-color: #F7F7F7;
     justify-content: center;
-    gap: 250px;
+    gap: 251px;
     margin-bottom: 20px;
 }
 
@@ -362,7 +362,7 @@
 
 .footer__box2--paragrf{
     width: 367px;
-    margin-bottom: 20px;
+    margin-bottom: 21px;
     font-size: 14px;
     font-weight: 400;
 }
