@@ -340,9 +340,11 @@
     width: 100%;
     height: 329px;
     display: flex;
-    padding-top: 50px;
+    padding-top: 55px;
     background-color: #F7F7F7;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 200px;
+    margin-bottom: 20px;
 }
 
 
